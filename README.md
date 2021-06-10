@@ -10,4 +10,4 @@
 - ⚡ 我喜欢**健身、挖洞、历史、旅游**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=poyhub)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poyhub&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poyhub)
