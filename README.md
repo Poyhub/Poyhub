@@ -12,4 +12,4 @@
 - ✔  学过的语言**C、C++、Java、Javascript、Python、Golang**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=poyhub)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poyhub)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poyhub)](https://github.com/anuraghazra/github-readme-stats)
