@@ -3,14 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poyhub&label=Profile%20views&color=0e75b6&style=flat" alt="poyhub" /> </p>
 
-- 🌱 我正在**![image](https://user-images.githubusercontent.com/28680105/191705354-303900d5-6e75-4d1c-be46-e4716157ce52.png)
-Xiaomi...**
+- 🌱 我正在**Xiaomi...**
 
 - 📫 如何联系我 **poyhub@outlook.com**
 
-- ⚡ 我喜欢**健身、挖洞、历史、旅游**
+- ⚡ 我喜欢**健身、挖洞、历史、旅游、安全情报研究**
 
 - ✔  学过的语言**C、C++、Java、Javascript、Python、Golang**
+
+- 🚪  技术栈：**前端开发、Android开发、WEB后端{Python、Go、Java}**
+
+- 📕  目前正在学习：**WEB3**、**智能合约&安全**、**Rust**
 
 - 🐱‍👤 团队：**BUGFOR**
 <h3 align="left">Languages and Tools:</h3>
