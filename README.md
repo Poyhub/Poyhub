@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poyhub&label=Profile%20views&color=0e75b6&style=flat" alt="poyhub" /> </p>
 
-- 🌱 我正在**Xiaomi...**
+- 🌱 我正在**南京林业大学 大二学生...**
 
 - 📫 如何联系我 **poyhub@outlook.com**
 
